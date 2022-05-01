@@ -1,4 +1,4 @@
-#Thing Writer 1.0
+#Thing Writer 3.0
 from datetime import datetime
 def Printer():
     Appendix = open('FixedLocation.txt', 'a')
